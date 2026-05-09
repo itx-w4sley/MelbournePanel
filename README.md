@@ -20,7 +20,7 @@ Built with scalability, performance, and usability in mind, MELCORE streamlines 
 ## Installation
 
 ```bash
-git clone https://github.com/itx-w4sley/Melbourne-Roleplay-Website-V1
+git clone https://github.com/itx-w4sley/MelbournePanel
 cd melcore
 composer install
 ```
